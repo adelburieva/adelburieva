@@ -19,5 +19,6 @@ and how they survive in the real world.
 
 If you’re seeing this early, you’re ahead of the curve:
 
-⭐ Check out **Aden Hive**  
-🐝 Follow **Aden** for where agent infrastructure is heading
+⭐  Check out **Aden Hive** [Hive](https://github.com/adenhq/hive)
+🐝  Follow **Aden** for where agent infrastructure is heading [Hive](https://github.com/adenhq/hive)
+
