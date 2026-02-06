@@ -3,7 +3,7 @@
 
 5,000+ GitHub stars in ~10 days.
 
-I contribute to **Aden Hive** — an open-source, outcome-driven agent framework
+I contribute to **Aden Hive** - an open-source, outcome-driven agent framework
 built for production, not demos.
 
 Hive focuses on agents that:
