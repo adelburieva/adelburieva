@@ -1,16 +1,21 @@
-## Hi there 👋
+## Aden Hive is growing fast 🐝
 
-<!--
-**adelburieva/adelburieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+5,000+ GitHub stars in ~10 days.
 
-Here are some ideas to get you started:
+I contribute to **Aden Hive** — an open-source, outcome-driven agent framework
+built for production, not demos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hive focuses on agents that:
+- evolve from failures
+- run real business processes
+- have cost limits, observability, and human-in-the-loop control
+
+I work inside the ecosystem helping shape how these agents are built
+and how they survive in the real world.
+
+---
+
+If you’re seeing this early, you’re ahead of the curve:
+
+⭐ Check out **Aden Hive**  
+🐝 Follow **Aden** for where agent infrastructure is heading
