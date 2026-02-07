@@ -2,7 +2,7 @@
 
 ## Aden Hive is growing fast 🐝
 
-5,000+ GitHub stars in ~10 days.
+5,000+ [GitHub stars](https://github.com/adenhq/hive) in ~10 days.
 
 I contribute to **Aden Hive** - an open-source, outcome-driven agent framework
 built for production, not demos.
