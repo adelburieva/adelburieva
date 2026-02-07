@@ -1,7 +1,4 @@
-
-
-https://github.com/user-attachments/assets/45350664-41fc-4074-aad8-16bcd037b138
-
+![Screen Recording 2026-02-06 at 4 48 32 PM](https://github.com/user-attachments/assets/028df6cb-a28b-4f7e-850b-41b9c9731905)
 
 
 ## Aden Hive is growing fast 🐝
